@@ -1,0 +1,18 @@
+header nav {
+    background-color: #1D1D1B;
+}
+
+header nav a {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+header img.logo {
+    width: 110px;
+    margin-left: 30px;
+}
+
+header img.facebook:hover {
+    color: #fd0;
+}
