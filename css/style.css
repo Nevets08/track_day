@@ -106,10 +106,15 @@ header i:hover {
     margin-top: 40px;
 }
 
-#steps p {
+#steps .steps_text p {
     font-size: 15px;
+    color: #fd0;
+    font-weight: bold;
 }
 
 #steps li {
     color: #fff;
 }
+
+/* PRESTATIONS */
+
